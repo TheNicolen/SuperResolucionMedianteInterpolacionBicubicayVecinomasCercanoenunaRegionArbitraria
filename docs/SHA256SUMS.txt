@@ -1,0 +1,2 @@
+f402e7ebbbdfb5cbf099c559ad5ac9965c50233a06b9305f541e5c61ec860ed0  docs/informe-super-resolucion.pdf
+1654bd851f23c1e6be56c4ab8b568849461318f4241383d4c6c6df1771b17978  docs/presentacion-super-resolucion.pdf
